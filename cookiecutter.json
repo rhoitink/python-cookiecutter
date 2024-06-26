@@ -1,0 +1,7 @@
+{
+    "project_slug": "mypackage",
+    "description": "A python package to do ...",
+    "version": "0.0.1",
+    "author": "Roy Hoitink",
+    "email": "L.D.Hoitink@uu.nl"
+}
